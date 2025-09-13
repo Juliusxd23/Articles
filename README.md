@@ -13,6 +13,7 @@
 ## Account TakeOver (ATO)
 - https://nullsecurityx.codes/0-click-account-takeover-using-punycode
 - https://infosecwriteups.com/1000-bounty-account-takeover-via-host-header-injection-in-password-reset-flow-dc0cdb2d972b
+- https://rocky1696.medium.com/account-takeover-via-csrf-in-google-oauth-binding-target-com-6ccc40403ce0
 
 ## Subdomain TakeOver
 - https://freedium.cfd/https%3A%2F%2Fmedium.com%2Fdevelopersglobal%2Fsubdomain-takeover-levels-recursive-caf2046f4481
@@ -29,6 +30,9 @@
 
 ## 2FA
 - https://www.nccgroup.com/research-blog/testing-two-factor-authentication/
+
+## Web Cache Deception
+- https://medium.com/legionhunters/just-one-click-to-leak-all-victim-information-54599e3b6268
 
 ## AI
 - https://infosecwriteups.com/persistent-xss-vulnerability-on-microsoft-bings-video-indexing-system-a46db992ac7b
